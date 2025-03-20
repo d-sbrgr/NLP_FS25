@@ -1,0 +1,40 @@
+{
+  "os": "Linux-5.15.0-131-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.9",
+  "startedAt": "2025-03-20T06:38:25.750751Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "git@github.com:d-sbrgr/NLP_FS25.git",
+    "commit": "9f68ed41f8d11d8425b8eff4e6a83da5946e7db0"
+  },
+  "email": "david.schurtenberger@stud.hslu.ch",
+  "root": "/home/jovyan/NLP_FS25/projects",
+  "host": "jupyter-david-schurtenberger---bb68275e",
+  "executable": "/opt/conda/bin/python",
+  "cpu_count": 128,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA A16",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "263086084096",
+      "used": "187229704192"
+    }
+  },
+  "memory": {
+    "total": "540862603264"
+  },
+  "cpu": {
+    "count": 128,
+    "countLogical": 128
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A16",
+      "memoryTotal": "16101933056",
+      "cudaCores": 1280,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}
