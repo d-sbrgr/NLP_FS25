@@ -1,6 +1,8 @@
 .idea/
 .env3/
 fastText/
+wandb/
+NLP_Project_1/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
