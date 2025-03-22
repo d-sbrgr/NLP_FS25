@@ -2,6 +2,7 @@
 .env3/
 fastText/
 lightning_logs/
+lightning_checkpoints/
 wandb/
 NLP_Project_1/
 
