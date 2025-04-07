@@ -50,3 +50,11 @@ def forward(self, x: torch.Tensor, lengths: torch.Tensor) -> torch.Tensor:
     perm_out = torch.empty_like(out)
     perm_out[perm_idx] = out
     return perm_out
+
+
+# RNN
+"RNN+Classifier_250406214953-epoch=78-valid_acc=0.23.ckpt"
+
+# Classifier
+
+"Classifier_250406195330-epoch=17-valid_acc=0.24.ckpt"
